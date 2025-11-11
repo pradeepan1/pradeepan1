@@ -1,3 +1,29 @@
+<!-- Hero: Animated Name -->
+<p align="center">
+  <img src="./assets/pradeepan-name.svg" alt="Pradeepan L — AI/ML Engineer" width="80%">
+</p>
+
+<!-- Typing line (optional: remove if you don’t want external services) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&center=true&vCenter=true&random=false&width=900&lines=Building+impactful+AI+that+solves+real+problems;CSE+(AI+%26+ML)+@+KIT;Prompt+Engineering+%7C+Data+Science+%7C+Full+Stack" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeepan1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pradeepan1-informational?logo=linkedin"></a>
+  <a href="https://www.codechef.com/users/pradeepan1"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-pradeepan1-764ABC?logo=codechef"></a>
+  <a href="https://leetcode.com/pradeepan1"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-pradeepan1-black?logo=leetcode"></a>
+  <a href="mailto:kit27.am37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kit27.am37%40gmail.com-blue"></a>
+  <a href="https://pradeepan1.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0f766e"></a>
+</p>
+
+<!-- Wave divider -->
+<p align="center">
+  <img src="./assets/wave-divider.svg" width="100%" alt="divider">
+</p>
+
 # 💼 Pradeepan's Portfolio
 
 Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**. My mission is to build impactful AI solutions that solve real-world problems.
@@ -7,29 +33,25 @@ Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Scien
 ## 🚀 About Me
 
 - 🎓 Student at **KIT - Kalaignar Karunanidhi Institute of Technology**, CSE (AI & ML)
-- 🤖 Interested in AI, ML,  Data Science, Prompt Engineeing, Data Analytics and Full Stack Development
+- 🤖 Interested in **AI, ML, Data Science, Prompt Engineering, Data Analytics, Full Stack Development**
 - 🧠 Lifelong learner passionate about problem-solving and smart applications
-- 🌐 Completed **Google UX Design** & **AWS Cloud Technical Essentials** certification
+- 🌐 Completed **Google UX Design** & **AWS Cloud Technical Essentials**
 - 🛠️ Building smart, scalable, and efficient applications
+
 ---
 
 ## 📂 Projects
 
-Here are some of the projects I’ve worked on. More coming soon!
-
 ### 🔍 AI/ML Projects
-- **[Chatbot using nlp]** – Short description : This project involves developing a chatbot using Natural Language Processing (NLP) techniques to understand and respond to user queries in a human-like manner. The chatbot can interpret user input, process natural language, and provide relevant and context-aware replies. It can be used for customer support, information retrieval, or interactive assistance. Key technologies include text preprocessing, intent recognition, and response generation using NLP libraries such as NLTK or spaCy.
-- **[Medical diagonosis using AI]** – Short description : This project focuses on developing an AI-based medical diagnosis system that assists in identifying diseases based on patient symptoms and medical data. Using machine learning algorithms and healthcare datasets, the system can predict possible conditions, suggest treatments, and support doctors in decision-making. It enhances accuracy, reduces diagnosis time, and improves overall healthcare efficiency
-
-
-
+- **Chatbot using NLP** – A conversational assistant using NLP (NLTK/spaCy) with intent recognition, entity extraction, and context-aware replies.
+- **Medical Diagnosis using AI** – ML-based disease prediction from symptoms/medical data to assist clinicians with faster, more accurate decisions.
 
 ### 🌐 Web Development
-- **[Portfolio Website]** – Personal portfolio using React and Tailwind CSS
-- **[Mini Web App]** – Short description (e.g., "To-do list with Node.js backend")
+- **Portfolio Website** – Personal portfolio using React + Tailwind CSS
+- **Mini Web App** – To-do app with Node.js backend and REST APIs
 
 ### 📊 Data Science
-- **[Project Name]** – Short description (e.g., "Data analysis on COVID-19 using Pandas and Matplotlib")
+- **COVID-19 Analysis** – Exploratory analysis & visualization in Pandas + Matplotlib with trend insights
 
 > 📌 Visit the **Projects** folder for source code, explanations, and demo links.
 
@@ -37,7 +59,7 @@ Here are some of the projects I’ve worked on. More coming soon!
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, java, c programing, JavaScript, C++
+- **Languages**: Python, Java, C, JavaScript, C++
 - **Frameworks/Libraries**: TensorFlow, scikit-learn, React.js, Node.js
 - **Tools**: Git, VS Code, Figma, Postman
 - **Platforms**: AWS, GitHub, Google Cloud
@@ -46,9 +68,11 @@ Here are some of the projects I’ve worked on. More coming soon!
 
 ## 📫 Contact Me
 
-- 📧 Email: [kit27.am37@gmail.com]
-- 🌐 Portfolio Website: [https://pradeepan1.github.io/portfolio/]
-- 🐦 LinkedIn: [pradeepan1]
+- 📧 Email: **kit27.am37@gmail.com**
+- 🌐 Portfolio: **https://pradeepan1.github.io/portfolio/**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/pradeepan1/**
+- 👨🏽‍💻 CodeChef: **https://www.codechef.com/users/pradeepan1**
+- 🧩 LeetCode: **https://leetcode.com/pradeepan1**
 
 ---
 
@@ -58,4 +82,16 @@ Here are some of the projects I’ve worked on. More coming soon!
 
 ---
 
-Thank you for visiting my portfolio repo! Feel free to explore, give feedback, and connect with me 😊
+## 🐍 Contributions Snake
+
+> Auto-generated every day from your contributions!
+
+![Snake animation](https://github.com/pradeepan1/pradeepan1/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <img src="./assets/neon-name.svg" alt="Neon name flicker" width="60%">
+</p>
+
+Thanks for visiting! If you like something here, ⭐ a repo or connect with me 😊
