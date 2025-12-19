@@ -82,11 +82,7 @@ Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Scien
 
 ---
 
-## 🐍 Contributions Snake
 
-> Auto-generated every day from your contributions!
-
-![Snake animation](https://github.com/pradeepan1/pradeepan1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
