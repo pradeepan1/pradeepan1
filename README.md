@@ -78,9 +78,7 @@ Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Scien
 
 ## 📈 GitHub Stats
 
-![Pradeepan's GitHub Stats](![Pradeepan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepan1&show_icons=true&theme=radical&cache_seconds=0)
-)
-
+`![GitHub Streak](https://github-readme-streak-stats.herokuappy-cards.vercel.app/api?username=pradeepan1[6]
 
 ---
 
