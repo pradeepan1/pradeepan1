@@ -80,9 +80,6 @@ Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Scien
 
 ![Pradeepan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepan1&show_icons=true&theme=radical)
 
----
-
-
 
 ---
 
